@@ -35,6 +35,6 @@ bash <(curl -fsSL https://github.com/duyculy/sing-REALITY-Box/blob/main/sing-REA
 Huge props goes out to iSegaro for all he does . this script is the automation of his 
 tutorial . keep up the work \m/ . find him on Twitter at @iSegaro
 
-## Contact me
+## Thanks
 
-You can find me on twitter at @NamelesGhoul for requests and questions
+Thanks for deadline94 @NamelesGhoul (twitter) 
